@@ -36,13 +36,15 @@ Gambar diatas adalah tampilan ketika user memilih 2 (registrasi) pada menu klien
 
 ![github6](https://github.com/user-attachments/assets/bf7d2d4a-c6fe-4531-8ebc-770e2be2a385)
 
-Gambar diatas adalah tampilan menu admin ketika user telah berhasil login menjadi admin, menu yang telah ditampilkan adalah fasilitas untuk admin untuk mengelola data layanan yang dimana layanan tersebut akan dipakai oleh klien. 
+Gambar diatas adalah tampilan menu admin ketika user telah berhasil login menjadi admin, menu yang telah ditampilkan adalah fasilitas admin untuk mengelola data layanan yang dimana layanan tersebut akan dipakai oleh klien. 
 
 ![github7](https://github.com/user-attachments/assets/19f10372-dbb6-4bfc-85af-8be8baf89eff)
 
-Gambar diatas adalah tampilan ketika admin memilih nomor 1 (
+Gambar diatas adalah tampilan ketika admin memilih nomor 1 (Tambah Layanan), admin akan diminta untuk mengisi kode,layanan, dan harga yang ingin ditambahkan ke dalam tabel layanan, setelah itu program langsung menampilkan tabel data layanan terbaru setelah admin menambahkan data layanan baru.
 
 ![github8](https://github.com/user-attachments/assets/438d1b77-9813-4c78-b1fd-630d7f92261c)
+
+Gambar diatas adalah tampilan ketika admin memilih 2(Lihat Informasi Layanan), program akan langsung menampilkan informasi layanan setelah itu program juga akan memberi pilihan kepada admin untuk kembali ke menu admin atau tidak, jika admin memilih tidak maka program kembali menampilkan informasi layanan lagi.
 
 ![github9](https://github.com/user-attachments/assets/d649a1e6-a5a2-4e3a-a0db-742219131eef)
 
