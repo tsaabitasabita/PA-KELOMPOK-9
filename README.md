@@ -32,6 +32,8 @@ Gambar diatas adalah tampilan ketika user meimilih 2(klien), dimana user akan di
 
 ![github5](https://github.com/user-attachments/assets/9eb5ac79-38f6-4054-98ff-c3d68812f0a9)
 
+Gambar diatas adalah tampilan ketika user memilih 2 (registrasi) pada menu klien, user diminta untukk memasukan username dan password baru yang akan disimpan ke dalam data pengguna, sehingga user dapat login sebagai klien karena sudah memiliki akun (username dan password telah tersimpan).
+
 ![github6](https://github.com/user-attachments/assets/bf7d2d4a-c6fe-4531-8ebc-770e2be2a385)
 
 ![github7](https://github.com/user-attachments/assets/19f10372-dbb6-4bfc-85af-8be8baf89eff)
