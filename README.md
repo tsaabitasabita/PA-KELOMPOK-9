@@ -36,7 +36,11 @@ Gambar diatas adalah tampilan ketika user memilih 2 (registrasi) pada menu klien
 
 ![github6](https://github.com/user-attachments/assets/bf7d2d4a-c6fe-4531-8ebc-770e2be2a385)
 
+Gambar diatas adalah tampilan menu admin ketika user telah berhasil login menjadi admin, menu yang telah ditampilkan adalah fasilitas untuk admin untuk mengelola data layanan yang dimana layanan tersebut akan dipakai oleh klien. 
+
 ![github7](https://github.com/user-attachments/assets/19f10372-dbb6-4bfc-85af-8be8baf89eff)
+
+Gambar diatas adalah tampilan ketika admin memilih nomor 1 (
 
 ![github8](https://github.com/user-attachments/assets/438d1b77-9813-4c78-b1fd-630d7f92261c)
 
