@@ -52,15 +52,26 @@ Gambar diatas adalah tampilan ketika admin memilih 3 (Perbarui Informasi Layanan
 
 ![github10](https://github.com/user-attachments/assets/4152fbfe-2121-499f-9064-395ec70aa21c)
 
+Gambar diatas adalah tampilan ketika admin memilih 4 (Hapus Layanan). Program akan menampilkan tabel data layanan terlebih dahulu agar admin dapat melihat data layanan mana yang ingin dihapus, setelah itu admin diminta untuk memasukkan kode layanan yang ingin dihapus, setelah itu program akan menampilkan tabel data layanan terbaru yang menyatakan data layanan berhasil dihapus. Setelah itu admin akan ditanya "apakah ingin menghapus data lagi?" jika admin mengisi "t" akan kembali ke menu admin dan jika mengisi "y" akan kembali lagi untuk menghapus data layanan.
 ![github11](https://github.com/user-attachments/assets/6f14b6ab-8d07-4f7c-a975-a80cdb0f456e)
+
+Gambar diatas adalah tampilan ketika admin memilih 5 (Kembali) pada menu admin. Maka user sekarang kembali ke menu utama (bukan seorang admin lagi), pada menu utama ini, user dapat memilih role sebagai admin atau klien. 
 
 ![github12](https://github.com/user-attachments/assets/72e21f27-6bf3-4dfe-9e6b-27677621ac1b)
 
+Gambar diatas adalah tampilan ketika user memilih 2 (Klien) pada menu utama. Ketika masuk ke menu klien, user menjadi klien dan diminta untuk memasukan menu yang ingin dipilih.
+
 ![github13](https://github.com/user-attachments/assets/5b3a1800-9ed7-499d-9e86-a111ea3a76ea)
+
+Gambar diatas adalah tampilan ketika klien memilih 1 (Login). Klien akan diminta untuk memasukkan username dan password yang tentunya sudah terdaftar atau sudah ada dalam data (klien telah melakukan registrasi). Login Klien ini adalah sebagai syarat berlanjutnya program ke menu klien dengan berbagai fitur yaitu layanan, top up e-money, cek saldo e-money, dan kembali ke menu utama.
 
 ![github14](https://github.com/user-attachments/assets/73d85a55-3334-4608-8402-22d431ecd135)
 
+Gambar diatas adalah tampilan ketika klien berhasil login. Program akan menampilkan tabel menu klien yang dimana pada menu klien ini lah fasilitas utama bagi klien (pengguna).Lalu klien diminta untuk memasukkan pilihan menu yang akan digunakan.
+
 ![github16](https://github.com/user-attachments/assets/594a0a3c-702b-4d17-b4c2-348c5fd04ef6)
+
+Gambar diatas adalah tampilan ketika klien memilih 1 (Layanan) pada menu klien. Program akan menampilkan layanan kesehatan beserta harga/jam dan status dari layanan tersebut, lalu klien diminta untuk memasukkan layanan yang ingin dipilih beserta durasi layanan. Setelah itu program akan menampilkan 2 pilihan untuk metode pembayaran diikuti dengan total pembayaran. Klien akan diminta untuk memilih metode pembayaran
 
 ![github17](https://github.com/user-attachments/assets/4457cbe6-124a-44a2-9643-ad7d167a0ef6)
 
