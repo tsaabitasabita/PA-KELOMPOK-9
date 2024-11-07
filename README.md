@@ -48,6 +48,8 @@ Gambar diatas adalah tampilan ketika admin memilih 2(Lihat Informasi Layanan), p
 
 ![github9](https://github.com/user-attachments/assets/d649a1e6-a5a2-4e3a-a0db-742219131eef)
 
+Gambar diatas adalah tampilan ketika admin memilih 3 (Perbarui Informasi Layanan). Admin akan diminta untuk memasukan kode, layanan, dan harga yang ingin diperbarui, admin juga dapat merubah data layanan tertentu dengan cara mengisi "t" ketika program menanyakan untuk mengubah data layanan tertentu. Contohnya ketika admin hanya ingin melakukan perubahan pada bagian "Status" maka admin dapat melewati untuk mengubah data layanan dan harga. Setelah admin memasukkan bagian data yang ingin diperbarui, maka program akan menampilkan tabel data layanan terbaru yang menyatakan data berhasil diperbarui.
+
 ![github10](https://github.com/user-attachments/assets/4152fbfe-2121-499f-9064-395ec70aa21c)
 
 ![github11](https://github.com/user-attachments/assets/6f14b6ab-8d07-4f7c-a975-a80cdb0f456e)
