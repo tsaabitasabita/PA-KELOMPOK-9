@@ -4,11 +4,11 @@
 
 # SISTEM INFORMASI C
 
-Nama Anggota Kelompok 9
+Nama Anggota Kelompok 9:
 
-1. Tsabitah Kawiswara 
-2. Jihan Alya Naflah
-3. Vebronia Vitania Lusi
+1. Tsabitah Kawiswara     (2409116099)
+2. Jihan Alya Naflah      (2409116082)
+3. Vebronia Vitania Lusi  (2409116112)
 
 # Flowchart Aplikasi Layanan Kesehatan Online
 ![FLOWCHART1](https://github.com/user-attachments/assets/9ee04ffa-2f3e-408a-ba8c-061ea09881bd)
