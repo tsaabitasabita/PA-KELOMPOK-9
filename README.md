@@ -10,14 +10,21 @@ Nama Anggota Kelompok 9
 2. Jihan Alya Naflah
 3. Vebronia Vitania Lusi
 
+# Flowchart Aplikasi Layanan Kesehatan Online
 ![FLOWCHART1](https://github.com/user-attachments/assets/9ee04ffa-2f3e-408a-ba8c-061ea09881bd)
 
 ![FLOWCHART2](https://github.com/user-attachments/assets/1fe638a8-f8eb-4554-8e31-d45e12a0c007)
 
+# Penjelasan cara kerja sistem
 
 ![github1](https://github.com/user-attachments/assets/022ecce5-3ab9-4cb9-800d-2c34f837bca9)
 
+Pada gambar diatas, adalah pembukaan program yang akan meminta user untuk menginput/memasukkan pilihan menu dengan angka yang sesuai pada tabel yang ditampilkan. Jika memilih 1, maka program akan langsung meminta user untuk mengisi username dan passsword untuk ke menu admin berikutnya. Jika memilih 2, maka program akan menampilkan 2 pilihan menu klien. Jika memilih 3, maka program akan selesai.
+
 ![github2](https://github.com/user-attachments/assets/036c0d54-fa29-420b-877e-9707d908a78b)
+
+Gambar diatas adalah tampilan ketika user meimilih 1(login), dimana user akan diminta mengisi username dan password sebelum masuk ke menu admin(menjadi admin)
+
 
 ![github3](https://github.com/user-attachments/assets/e33aacab-aef1-48ff-aedc-277733658b6d)
 
