@@ -7,6 +7,6 @@
 Nama Anggota Kelompok 9
 
 1. Tsabitah Kawiswara 
-2. Jihan alya naflah
+2. Jihan Alya Naflah
 3. Vebronia Vitania Lusi
 
