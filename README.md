@@ -71,11 +71,17 @@ Gambar diatas adalah tampilan ketika klien berhasil login. Program akan menampil
 
 ![github16](https://github.com/user-attachments/assets/594a0a3c-702b-4d17-b4c2-348c5fd04ef6)
 
-Gambar diatas adalah tampilan ketika klien memilih 1 (Layanan) pada menu klien. Program akan menampilkan layanan kesehatan beserta harga/jam dan status dari layanan tersebut, lalu klien diminta untuk memasukkan layanan yang ingin dipilih beserta durasi layanan. Setelah itu program akan menampilkan 2 pilihan untuk metode pembayaran diikuti dengan total pembayaran. Klien akan diminta untuk memilih metode pembayaran
+Gambar diatas adalah tampilan ketika klien memilih 1 (Layanan) pada menu klien. Program akan menampilkan layanan kesehatan beserta harga/jam dan status dari layanan tersebut, lalu klien diminta untuk memasukkan layanan yang ingin dipilih beserta durasi layanan. Setelah itu program akan menampilkan 2 pilihan untuk metode pembayaran diikuti dengan total pembayaran. Klien akan diminta untuk memilih metode pembayaran, pembayaran akan berhasil jika jumlah saldo (sesuai dengan data saldo masing2 klien) atau uang tunai yang di isi lebih dari total pembayaran dan program akan menampilkan struk pembelian. Jika saldo atau uang tunai kurang dari total pembayaran makan pembayaran gagal.
 
 ![github17](https://github.com/user-attachments/assets/4457cbe6-124a-44a2-9643-ad7d167a0ef6)
 
+Gambar diatas adalah tampilan ketika klien memilih 2 (Top Up E-Money). Program akan menampilkan pilihan saldo yang ingin di top up, lalu klien diminta untuk memasukkan pilihan jumlah saldo yang ingin di top up. Setelah itu akan ditampilkan jumlah saldo yang bertambah dan update saldo terbaru.
+
 ![github18](https://github.com/user-attachments/assets/e912ac94-00a7-42a6-ba59-f6ca1bdd3751)
 
+Gambar diatas adalah tampilan ketika klien memilih 3 (Cek Saldo E-Money). Program akan menampilkan saldo yang dimiliki oleh klien.
+
 ![github19](https://github.com/user-attachments/assets/b1d2d6a6-ef77-4188-8425-a4e6b9e9bb4c)
+
+Gambar diatas adalah tampilan ketika klien memilih 4 (Kembali ke Menu Utama) pada amenu klien, lalu user memilih 3 (Selesai) pada menu utama. Program akan selesai dan tidak melanjutkan proses.
 
