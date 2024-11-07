@@ -10,7 +10,7 @@ Nama Anggota Kelompok 9
 2. Jihan Alya Naflah
 3. Vebronia Vitania Lusi
 
-
+![FLOWCHART1](https://github.com/user-attachments/assets/9ee04ffa-2f3e-408a-ba8c-061ea09881bd)
 
 ![FLOWCHART2](https://github.com/user-attachments/assets/1fe638a8-f8eb-4554-8e31-d45e12a0c007)
 
