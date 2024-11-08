@@ -39,7 +39,7 @@ Gambar diatas adalah tampilan ketika user meimilih 1(Admin), dimana user akan di
 
 ![github3](https://github.com/user-attachments/assets/e33aacab-aef1-48ff-aedc-277733658b6d)
 
-Gambar diatas adalah tampilan ketika user meimilih 2(klien), dimana user akan diminta mengisi username dan password yang sudah terdata atau sudah registrasi, sebelum masuk ke menu klien(menjadi klien)
+Gambar diatas adalah tampilan ketika user meimilih 2(klien) pada menu utama, dimana user akan diminta mengisi username dan password yang sudah terdata atau sudah registrasi, sebelum masuk ke menu klien(menjadi klien)
 
 ![github5](https://github.com/user-attachments/assets/9eb5ac79-38f6-4054-98ff-c3d68812f0a9)
 
@@ -57,6 +57,10 @@ Gambar diatas adalah tampilan ketika admin salah menginput username dan password
 
 Gambar diatas adalah tampilan ketika admin memilih nomor 1 (Tambah Layanan), admin akan diminta untuk mengisi kode,layanan, dan harga yang ingin ditambahkan ke dalam tabel layanan, setelah itu program langsung menampilkan tabel data layanan terbaru setelah admin menambahkan data layanan baru.
 
+![revisi jika kode sama](https://github.com/user-attachments/assets/4ef1f098-245a-44ac-b128-62b8a64371cb)
+
+Gambar diatas adalah tampilan ketika admin mengisi kode yang sama untuk melakukan penambahan data, program akan kembali meminta admin untuk mengisi kode yang berbeda agar bisa ditambahkan, berlaku juga pada layanan tidak boleh menambah layanan yang sama.
+
 ![github8](https://github.com/user-attachments/assets/438d1b77-9813-4c78-b1fd-630d7f92261c)
 
 Gambar diatas adalah tampilan ketika admin memilih 2(Lihat Informasi Layanan), program akan langsung menampilkan informasi layanan setelah itu program juga akan memberi pilihan kepada admin untuk kembali ke menu admin atau tidak, jika admin memilih tidak maka program kembali menampilkan informasi layanan lagi.
@@ -64,6 +68,10 @@ Gambar diatas adalah tampilan ketika admin memilih 2(Lihat Informasi Layanan), p
 ![github9](https://github.com/user-attachments/assets/d649a1e6-a5a2-4e3a-a0db-742219131eef)
 
 Gambar diatas adalah tampilan ketika admin memilih 3 (Perbarui Informasi Layanan). Admin akan diminta untuk memasukan kode, layanan, dan harga yang ingin diperbarui, admin juga dapat merubah data layanan tertentu dengan cara mengisi "t" ketika program menanyakan untuk mengubah data layanan tertentu. Contohnya ketika admin hanya ingin melakukan perubahan pada bagian "Status" maka admin dapat melewati untuk mengubah data layanan dan harga. Setelah admin memasukkan bagian data yang ingin diperbarui, maka program akan menampilkan tabel data layanan terbaru yang menyatakan data berhasil diperbarui.
+
+![revisi kode tidak ada dlm data](https://github.com/user-attachments/assets/3fa86584-9378-454b-83c3-16e12c64c4b6)
+
+Gambar diatas adalah tampilan ketika admin mengisi kode yang tidak ada pada dalam data sehingga tidak bisa melanjutkan proses memperbarui data.
 
 ![github10](https://github.com/user-attachments/assets/4152fbfe-2121-499f-9064-395ec70aa21c)
 
@@ -91,6 +99,10 @@ Gambar diatas adalah tampilan ketika klien berhasil login. Program akan menampil
 ![github16](https://github.com/user-attachments/assets/594a0a3c-702b-4d17-b4c2-348c5fd04ef6)
 
 Gambar diatas adalah tampilan ketika klien memilih 1 (Layanan) pada menu klien. Program akan menampilkan layanan kesehatan beserta harga/jam dan status dari layanan tersebut, lalu klien diminta untuk memasukkan layanan yang ingin dipilih beserta durasi layanan. Setelah itu program akan menampilkan 2 pilihan untuk metode pembayaran diikuti dengan total pembayaran. Klien akan diminta untuk memilih metode pembayaran, pembayaran akan berhasil jika jumlah saldo (sesuai dengan data saldo masing2 klien) atau uang tunai yang di isi lebih dari total pembayaran dan program akan menampilkan struk pembelian. Jika saldo atau uang tunai kurang dari total pembayaran makan pembayaran gagal.
+
+![pembayaran tunai gagal](https://github.com/user-attachments/assets/d0e4d1e2-a22b-4434-9a50-a8c42600294e)
+
+Gambar diatas adalah tampilan ketika saldo e=money klien tidak mencukupi total pembayaran maka pembayaran gagal.
 
 ![github17](https://github.com/user-attachments/assets/4457cbe6-124a-44a2-9643-ad7d167a0ef6)
 
