@@ -37,7 +37,6 @@ Pada gambar diatas, adalah pembukaan program yang akan meminta user untuk mengin
 
 Gambar diatas adalah tampilan ketika user meimilih 1(Admin), dimana user akan diminta mengisi username dan password sebelum masuk ke menu admin(menjadi admin)
 
-
 ![github3](https://github.com/user-attachments/assets/e33aacab-aef1-48ff-aedc-277733658b6d)
 
 Gambar diatas adalah tampilan ketika user meimilih 2(klien), dimana user akan diminta mengisi username dan password yang sudah terdata atau sudah registrasi, sebelum masuk ke menu klien(menjadi klien)
@@ -49,6 +48,10 @@ Gambar diatas adalah tampilan ketika user memilih 2 (registrasi) pada menu klien
 ![github6](https://github.com/user-attachments/assets/bf7d2d4a-c6fe-4531-8ebc-770e2be2a385)
 
 Gambar diatas adalah tampilan menu admin ketika user telah berhasil login menjadi admin, menu yang telah ditampilkan adalah fasilitas admin untuk mengelola data layanan yang dimana layanan tersebut akan dipakai oleh klien. 
+
+![revisi stlh login admin](https://github.com/user-attachments/assets/f1855a81-e0a2-42be-ba41-dbc714b06d3c)
+
+Gambar diatas adalah tampilan ketika admin salah menginput username dan password sehingga gagal untuk login.
 
 ![github7](https://github.com/user-attachments/assets/19f10372-dbb6-4bfc-85af-8be8baf89eff)
 
@@ -68,6 +71,10 @@ Gambar diatas adalah tampilan ketika admin memilih 4 (Hapus Layanan). Program ak
 ![github11](https://github.com/user-attachments/assets/6f14b6ab-8d07-4f7c-a975-a80cdb0f456e)
 
 Gambar diatas adalah tampilan ketika admin memilih 5 (Kembali) pada menu admin. Maka user sekarang kembali ke menu utama (bukan seorang admin lagi), pada menu utama ini, user dapat memilih role sebagai admin atau klien. 
+
+![revisi stlh pilih mnu admin](https://github.com/user-attachments/assets/c0d60d15-3ac0-4b28-a7a5-02747d61c0fd)
+
+Gambar diatas adalah tampilan ketika admin memasukkan pilihan menu berupa huruf sehingga program tidak bisa melanjutkan akses menu.
 
 ![github12](https://github.com/user-attachments/assets/72e21f27-6bf3-4dfe-9e6b-27677621ac1b)
 
