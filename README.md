@@ -10,10 +10,22 @@ Nama Anggota Kelompok 9:
 2. Jihan Alya Naflah      (2409116082)
 3. Vebronia Vitania Lusi  (2409116112)
 
-# Flowchart Aplikasi Layanan Kesehatan Online
-![FLOWCHART1](https://github.com/user-attachments/assets/9ee04ffa-2f3e-408a-ba8c-061ea09881bd)
+# Library
+ 1. PrettyTable digunakan untuk membuat tabel yang lebih menarik dan teratur. 
+ 2. Os berfungsi untuk memberikan efek pembersihan layar pada output program. 
+ 3. Pwinput digunakan untuk menyembunyikan input password yang akan dimasukkan saat program dijalankan. 
+ 4. json digunakan untuk mengakses modul JSON, yang memungkinkan penguraian data JSON menjadi objek Python.
 
-![FLOWCHART2](https://github.com/user-attachments/assets/1fe638a8-f8eb-4554-8e31-d45e12a0c007)
+# Fitur Admin
+1. Tambah Layanan
+2. Lihat Informasi Layanan
+3. Perbarui Informasi Layanan
+4. Hapus Layanan
+
+# Fitur penngguna/klien
+1. Layanan
+2. Top Up E-Money
+3. Cek Saldo E-Money
 
 # Penjelasan cara kerja sistem
 
