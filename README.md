@@ -22,7 +22,7 @@ Nama Anggota Kelompok 9:
 3. Perbarui Informasi Layanan
 4. Hapus Layanan
 
-# Fitur penngguna/klien
+# Fitur pengguna/klien
 1. Layanan
 2. Top Up E-Money
 3. Cek Saldo E-Money
